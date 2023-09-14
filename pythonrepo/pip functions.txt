@@ -1,0 +1,31 @@
+to check python packages installed
+-> run: pip freeze
+
+to see the list of python packages in tabular form
+-> run: pip list
+
+to install a python module
+-> run : python -m pip install--
+upgrade <module_name>
+
+to uninstall a python package/module
+-> run: python -m pip uninstall <module_name>
+
+install django (Python web development framework)
+-> run: pip install gjango
+-> run: django-admin(to see django sub commands)
+
+create a new django project
+-> django-admin starproject <project_name>
+
+to run a django server
+-> run: python manage.py runserver
+
+to stop the server
+-> ctrl + c
+
+to create a new app in django
+-> run: python manage.py startapp <app_name>
+
+to install requests 
+pip install requests

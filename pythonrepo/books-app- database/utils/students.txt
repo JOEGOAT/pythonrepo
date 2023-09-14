@@ -1,0 +1,6 @@
+name,university,degree
+pach,UON,computer Science
+Lewis,JKUAT,BBIT
+Abdullahi,York,Cyber Security
+Joe,KU,Software Development 
+Joe,KU,Software Development 
